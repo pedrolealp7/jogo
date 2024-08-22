@@ -1,8 +1,8 @@
 # jogo
-Pedrapapeltesoura
+Pedra papel e tesoura
 
-usamos 
-choices = ["pedra", "papel", "tesoura"]
+Usamos choices = ["pedra", "papel", "tesoura"]
+
 
     user_choice = input("Escolha pedra, papel ou tesoura: ").lower()
     para armazenar as alternativas( pedra , papel , tesoura)
