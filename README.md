@@ -47,7 +47,7 @@ Se ambos os jogadores (ou o jogador e o computador) escolhem a mesma opção, o 
   <tr>
     <td align="center">
       <a href="https://github.com/analuizamoreira">
-        <img src="img p github/ana.png" width="125px;" alt="Foto do Ana Luiza no Github"/><br>
+        <img src="https://github.com/pedrolealp7/jogo/blob/main/ana.png?raw=true" width="125px;" alt="Foto do Ana Luiza no Github"/><br>
         <sub>
           <b style="font-size: 13px;">Ana luiza</b>
         </sub>
@@ -55,7 +55,7 @@ Se ambos os jogadores (ou o jogador e o computador) escolhem a mesma opção, o 
     </td>
     <td align="center">
       <a href="https://github.com/jv1903">
-        <img src="img p github/joao.png" width="125px;" alt="Foto do João Vitor no Github"/><br>
+        <img src="https://github.com/pedrolealp7/jogo/blob/main/joao.png?raw=true" width="125px;" alt="Foto do João Vitor no Github"/><br>
         <sub>
           <b style="font-size: 13px;"João Vitor</b>
         </sub>
