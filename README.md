@@ -1,13 +1,13 @@
 # jogo
 Pedra papel e tesoura
 
-Usamos choices = ["pedra", "papel", "tesoura"]
-
-
-    user_choice = input("Escolha pedra, papel ou tesoura: ").lower()
-    para armazenar as alternativas( pedra , papel , tesoura)
+    
      
      Usamos:👍
+     user_choice = input("Escolha pedra, papel ou tesoura: ").lower()
+    para armazenar as alternativas( pedra , papel , tesoura)
+    
+     ✔️ Usamos choices = ["pedra", "papel", "tesoura"]
      random.choice(choices)
     para usar as opçoes aleatorias, para jogar com o proprio computador.
     
