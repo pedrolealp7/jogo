@@ -63,7 +63,7 @@ Se ambos os jogadores (ou o jogador e o computador) escolhem a mesma opção, o 
     </td>
     <td align="center">
       <a href="https://github.com/pedrolealp7">
-        <img src="img p pedro.png" width="125px;" alt="Foto do Pedro Leal no Github"/><br>
+        <img src="https://github.com/pedrolealp7/jogo/blob/main/pedro.png?raw=true" width="125px;" alt="Foto do Pedro Leal no Github"/><br>
         <sub>
           <b style="font-size: 13px;">Pedro Leal</b>
         </sub>
